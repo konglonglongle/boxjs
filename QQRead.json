@@ -44,6 +44,13 @@
 
       ],
 
+      "author": "@iepngs",
+      "repo": "https://github.com/iepngs/Script",
+      "script": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png"
+      ]
     }
   ]
 }
